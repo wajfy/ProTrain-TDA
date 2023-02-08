@@ -1,0 +1,20 @@
+a{
+    text-decoration: none;
+}
+
+.submit{
+    border-radius: 0px;
+    color:black;
+    border: none;
+    background-color: white;
+    font-size:medium;
+    width:100px;
+    height: 40px;
+    transition: 0.5s;
+    background-color: #51c7a4;
+}
+.submit:hover{
+    color:white;
+    background-color: #43AA8B;
+        
+}
